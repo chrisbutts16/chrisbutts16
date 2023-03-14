@@ -4,10 +4,10 @@
 
 
 ### About Me
--📚 I’m currently learning front end development to build cool things
--🎓 Recent graduate from Rutgers University Master of Business & Science
--👯 Looking to get involved in all things open source or web-based
--⚡ Fun facts: I love traveling, playing guitar and video games
+  -📚 I’m currently learning front end development to build cool things
+  -🎓 Recent graduate from Rutgers University Master of Business & Science
+  -👯 Looking to get involved in all things open source or web-based
+  -⚡ Fun facts: I love traveling, playing guitar and video games
   
 ### Languages 🛠
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
